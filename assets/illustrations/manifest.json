@@ -1,0 +1,107 @@
+[
+  {
+    "name": "repnote_history_empty",
+    "source": "assets/illustrations/v2/sources/repnote_history_empty.png",
+    "resource": "app/src/main/res/drawable-nodpi/repnote_history_empty.png",
+    "pixels": [
+      2171,
+      724
+    ],
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "connected_to_ui": true,
+    "themes": "shared artwork, themed Compose container"
+  },
+  {
+    "name": "repnote_plan_full_body",
+    "source": "assets/illustrations/v2/sources/repnote_plan_full_body.png",
+    "resource": "app/src/main/res/drawable-nodpi/repnote_plan_full_body.png",
+    "pixels": [
+      1536,
+      1024
+    ],
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "connected_to_ui": true,
+    "themes": "shared artwork, themed Compose container"
+  },
+  {
+    "name": "repnote_plan_push_pull_legs",
+    "source": "assets/illustrations/v2/sources/repnote_plan_push_pull_legs.png",
+    "resource": "app/src/main/res/drawable-nodpi/repnote_plan_push_pull_legs.png",
+    "pixels": [
+      1536,
+      1024
+    ],
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "connected_to_ui": true,
+    "themes": "shared artwork, themed Compose container"
+  },
+  {
+    "name": "repnote_plan_upper_lower",
+    "source": "assets/illustrations/v2/sources/repnote_plan_upper_lower.png",
+    "resource": "app/src/main/res/drawable-nodpi/repnote_plan_upper_lower.png",
+    "pixels": [
+      1536,
+      1024
+    ],
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "connected_to_ui": true,
+    "themes": "shared artwork, themed Compose container"
+  },
+  {
+    "name": "repnote_rest_timer",
+    "source": "assets/illustrations/v2/sources/repnote_rest_timer.png",
+    "resource": "app/src/main/res/drawable-nodpi/repnote_rest_timer.png",
+    "pixels": [
+      2172,
+      724
+    ],
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "connected_to_ui": true,
+    "themes": "shared artwork, themed Compose container"
+  },
+  {
+    "name": "repnote_workout_builder",
+    "source": "assets/illustrations/v2/sources/repnote_workout_builder.png",
+    "resource": "app/src/main/res/drawable-nodpi/repnote_workout_builder.png",
+    "pixels": [
+      2172,
+      724
+    ],
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "connected_to_ui": true,
+    "themes": "shared artwork, themed Compose container"
+  },
+  {
+    "name": "repnote_workouts_hero",
+    "source": "assets/illustrations/v2/sources/repnote_workouts_hero.png",
+    "resource": "app/src/main/res/drawable-nodpi/repnote_workouts_hero.png",
+    "pixels": [
+      2161,
+      728
+    ],
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "connected_to_ui": true,
+    "themes": "shared artwork, themed Compose container"
+  }
+]

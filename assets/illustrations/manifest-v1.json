@@ -1,0 +1,170 @@
+[
+  {
+    "name": "repnote_workouts_hero",
+    "theme": "light",
+    "export": "assets/illustrations/exports/repnote_workouts_hero.png",
+    "resource": "app/src/main/res/drawable-nodpi/repnote_workouts_hero.png",
+    "pixels": [
+      1536,
+      512
+    ],
+    "aspect_ratio": "3:1",
+    "alpha": true,
+    "color_space": "sRGB",
+    "fit": "ContentScale.Fit",
+    "bounds": [
+      386,
+      73,
+      1129,
+      433
+    ],
+    "connected_to_ui": false
+  },
+  {
+    "name": "repnote_workouts_hero",
+    "theme": "dark",
+    "export": "assets/illustrations/exports/repnote_workouts_hero_dark.png",
+    "resource": "app/src/main/res/drawable-night-nodpi/repnote_workouts_hero.png",
+    "pixels": [
+      1536,
+      512
+    ],
+    "aspect_ratio": "3:1",
+    "alpha": true,
+    "color_space": "sRGB",
+    "fit": "ContentScale.Fit",
+    "bounds": [
+      386,
+      73,
+      1129,
+      433
+    ],
+    "connected_to_ui": false
+  },
+  {
+    "name": "repnote_history_empty",
+    "theme": "light",
+    "export": "assets/illustrations/exports/repnote_history_empty.png",
+    "resource": "app/src/main/res/drawable-nodpi/repnote_history_empty.png",
+    "pixels": [
+      1536,
+      512
+    ],
+    "aspect_ratio": "3:1",
+    "alpha": true,
+    "color_space": "sRGB",
+    "fit": "ContentScale.Fit",
+    "bounds": [
+      386,
+      66,
+      1140,
+      448
+    ],
+    "connected_to_ui": false
+  },
+  {
+    "name": "repnote_history_empty",
+    "theme": "dark",
+    "export": "assets/illustrations/exports/repnote_history_empty_dark.png",
+    "resource": "app/src/main/res/drawable-night-nodpi/repnote_history_empty.png",
+    "pixels": [
+      1536,
+      512
+    ],
+    "aspect_ratio": "3:1",
+    "alpha": true,
+    "color_space": "sRGB",
+    "fit": "ContentScale.Fit",
+    "bounds": [
+      386,
+      66,
+      1140,
+      448
+    ],
+    "connected_to_ui": false
+  },
+  {
+    "name": "repnote_workout_builder",
+    "theme": "light",
+    "export": "assets/illustrations/exports/repnote_workout_builder.png",
+    "resource": "app/src/main/res/drawable-nodpi/repnote_workout_builder.png",
+    "pixels": [
+      1536,
+      512
+    ],
+    "aspect_ratio": "3:1",
+    "alpha": true,
+    "color_space": "sRGB",
+    "fit": "ContentScale.Fit",
+    "bounds": [
+      386,
+      71,
+      1017,
+      436
+    ],
+    "connected_to_ui": false
+  },
+  {
+    "name": "repnote_workout_builder",
+    "theme": "dark",
+    "export": "assets/illustrations/exports/repnote_workout_builder_dark.png",
+    "resource": "app/src/main/res/drawable-night-nodpi/repnote_workout_builder.png",
+    "pixels": [
+      1536,
+      512
+    ],
+    "aspect_ratio": "3:1",
+    "alpha": true,
+    "color_space": "sRGB",
+    "fit": "ContentScale.Fit",
+    "bounds": [
+      386,
+      71,
+      1017,
+      436
+    ],
+    "connected_to_ui": false
+  },
+  {
+    "name": "repnote_rest_timer",
+    "theme": "light",
+    "export": "assets/illustrations/exports/repnote_rest_timer.png",
+    "resource": "app/src/main/res/drawable-nodpi/repnote_rest_timer.png",
+    "pixels": [
+      1536,
+      512
+    ],
+    "aspect_ratio": "3:1",
+    "alpha": true,
+    "color_space": "sRGB",
+    "fit": "ContentScale.Fit",
+    "bounds": [
+      433,
+      73,
+      1066,
+      438
+    ],
+    "connected_to_ui": false
+  },
+  {
+    "name": "repnote_rest_timer",
+    "theme": "dark",
+    "export": "assets/illustrations/exports/repnote_rest_timer_dark.png",
+    "resource": "app/src/main/res/drawable-night-nodpi/repnote_rest_timer.png",
+    "pixels": [
+      1536,
+      512
+    ],
+    "aspect_ratio": "3:1",
+    "alpha": true,
+    "color_space": "sRGB",
+    "fit": "ContentScale.Fit",
+    "bounds": [
+      433,
+      73,
+      1066,
+      438
+    ],
+    "connected_to_ui": false
+  }
+]
