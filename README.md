@@ -13,7 +13,7 @@
 
 ## Demo
 
-**Watch the demo: https://youtu.be/Qgr9cTWl16s**
+**Watch the demo: [▶ Watch the demo on YouTube](https://youtu.be/Qgr9cTWl16s)**
 
 ## Overview
 
